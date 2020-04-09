@@ -110,7 +110,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 && !field[0][2].equals("")) {
             return true;
         }
-
         return false;
     }
 
